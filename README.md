@@ -133,82 +133,8 @@ Google curl (-i, -I, -X GET, etc)</p>
 <div class="col-xl-12">
 <div class="row text-center">
 <div class="col p-t-10 f-12">
-<p>
-Python Flask Tutorial: Full-Featured Web App
-</p>
 </div>
 </div>
-<div class="row text-center">
-<div class="col">
-<iframe frameborder="0" src="https://www.youtube.com/embed/MwZwr5Tvyxo"></iframe>
-</div>
-</div>
-<hr>
-<div class="row text-center">
-<div class="col p-t-10 f-12">
-<p>
-My IMDB Api - Create a webserver
-</p>
-</div>
-</div>
-<div class="row text-center">
-<div class="col">
-<iframe frameborder="0" src="https://www.youtube.com/embed/ZuPO7NegBb4"></iframe>
-</div>
-</div>
-<hr>
-<div class="row text-center">
-<div class="col p-t-10 f-12">
-<p>
-My IMDB Api - Filter a CSV
-</p>
-</div>
-</div>
-<div class="row text-center">
-<div class="col">
-<iframe frameborder="0" src="https://www.youtube.com/embed/CC9yl9Bg0oc"></iframe>
-</div>
-</div>
-<hr>
-<div class="row text-center">
-<div class="col p-t-10 f-12">
-<p>
-My IMDB Api - Receive Params and return JSON
-</p>
-</div>
-</div>
-<div class="row text-center">
-<div class="col">
-<iframe frameborder="0" src="https://www.youtube.com/embed/6y2JelXq-1E"></iframe>
-</div>
-</div>
-<hr>
-<div class="row text-center">
-<div class="col p-t-10 f-12">
-<p>
-How To Create a Group
-</p>
-</div>
-</div>
-<div class="row text-center">
-<div class="col">
-<iframe frameborder="0" src="https://www.youtube.com/embed/g5WyMfFdHc4"></iframe>
-</div>
-</div>
-<hr>
-<div class="row text-center">
-<div class="col p-t-10 f-12">
-<p>
-How To Do A README?
-</p>
-</div>
-</div>
-<div class="row text-center">
-<div class="col">
-<iframe frameborder="0" src="https://www.youtube.com/embed/uMkrJ9dw3bc"></iframe>
-</div>
-</div>
-
 </div>
 </div>
 </div>
